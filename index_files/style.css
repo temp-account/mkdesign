@@ -99,7 +99,7 @@ body {
 
 .container-home {
 	background:#fff;
-	background:url(http://mk2groupdesign.com/ekmobile/waterfall/imgs/bg-home.jpg) 0px 0px no-repeat, #fff;
+	background:url(../imgs/bg-home.jpg) 0px 0px no-repeat, #fff;
 	height:1024px;
 }
 
@@ -859,7 +859,7 @@ footer {
 	}
     .container-home {
     	width: 320px;
-		background-image:url(http://mk2groupdesign.com/ekmobile/waterfall/imgs/bg-mobile.jpg);
+		background-image:url(../imgs/bg-mobile.jpg);
 		/*height:1007px;*/
 		background-size: 100%;
 		overflow: hidden;
